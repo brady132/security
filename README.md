@@ -1,2 +1,3 @@
 # security
-A HTTP security header detection tool that can easily and quickly detect HTTP security headers and provide suggestions and ratings.
+A simple and efficient HTTP security header detection tool that can help users easily and quickly detect HTTP security headers and provide suggestions and ratings.
+The user inputs the HTTP address to be detected in the system and clicks the detection button, and the system will check the URL Strict-Transport-Security、X-Content-Type-Options、X-Frame-Options、X-XSS-Protection、Content-Security-Policy、Referrer-Policy、Permissions-Policy Give scores for each of the seven aspects, and comprehensively evaluate the security header of the HTTP address based on the scores from all seven aspects.
